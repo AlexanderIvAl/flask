@@ -1,0 +1,11 @@
+1. > python -m venv ./venv/  #install venv
+
+2. > .\venv\Scripts\activate  #activate venv
+
+3. > python.exe -m pip install --upgrade pip  #upgrade pip
+
+4. > pip install flask   # install flask
+
+5. > pip list  
+
+	> pip freeze > requirements.txt
